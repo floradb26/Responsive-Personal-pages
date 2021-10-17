@@ -106,4 +106,9 @@ p {
     text-align: center;
   }
 
+.image-block {
+    display: block;
+    text-align: center;
+  }
+
 }
